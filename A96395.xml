@@ -1,0 +1,178 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The grovnds and cavses of our sufferings related in short: who suffer by the cruelty of oppressors, in Edmonds-bury Goal in Suffolk.</title>
+            <author>Whitehead, George, 1636?-1723.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1656</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 18 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A96395</idno>
+            <idno type="STC">Wing W1931</idno>
+            <idno type="STC">Thomason E880_3</idno>
+            <idno type="STC">ESTC R206593</idno>
+            <idno type="EEBO-CITATION">99865714</idno>
+            <idno type="PROQUEST">99865714</idno>
+            <idno type="VID">168385</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A96395)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 168385)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 132:E880[3])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The grovnds and cavses of our sufferings related in short: who suffer by the cruelty of oppressors, in Edmonds-bury Goal in Suffolk.</title>
+                  <author>Whitehead, George, 1636?-1723.</author>
+                  <author>Harwood, John.</author>
+                  <author>Fox, George, 1624-1691.</author>
+                  <author>Rofe, George, d. 1664.</author>
+                  <author>Marshall, Henry, fl. 1656.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Thomas Simonds, at the sign of the Bull and Mouth without Aldersgate.,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1656.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed at end: From the servants of the Lord, who are sufferers as is declared in Bury Edmonds common Goal, &amp;c. George VVhitehead, Iohn Harwood, George Fox, George Rofe, and Henry Marshall.</note>
+                  <note>Annotation on Thomason copy: "May 16".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Suffering --  Early works to 1800.</term>
+               <term>Prisons --  Great Britain --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-04</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-04</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:168385:1" rendition="simple:additions"/>
+            <p>THE GROVNDS, AND CAVSES OF OUR SUFFERINGS Related in ſhort: Who ſuffer by the Cruelty of OPPRESSORS, <hi>IN</hi> Edmonds-Bury Goal <hi>IN</hi> SUFFOLK.</p>
+            <p>
+               <add>May 16</add> 
+               <hi>LONDON,</hi> Printed for <hi>Thomas Simonds,</hi> at the ſign of the <hi>Bull</hi> and <hi>Mouth</hi> without <hi>Alderſgate.</hi> 1656.</p>
+         </div>
+      </front>
+      <body>
+         <div type="part">
+            <pb facs="tcp:168385:2"/>
+            <pb n="1" facs="tcp:168385:2"/>
+            <head>The grounds and cauſe of our ſufferings related in ſhort, who ſuffer by the cruelty of Oppreſſors in <hi>Edmonds Bury Goal</hi> in <hi>Suffolk.</hi>
+            </head>
+            <p>UPon the 30 day of the 5th month 1655. being the ſecond day of the week, <hi>Gorge VVhitehead</hi> and <hi>Iohn Harwood,</hi> paſſing through a town called <hi>Bury</hi> in <hi>Suffolk,</hi> who were moved for to ſpeak a few words to ſome people of that town, in which words we exhorted the people in the name and fear of the Lord to fear God, and to return from the evill of their ways to the Lord, and ſome other words to the ſame effect; preſently near that time while we ſpake, there came a Conſtable of the ſaid Bury, and carried us two, <hi>George VVhitehead</hi> and <hi>John Harwood</hi> before one <hi>Herbert Pellam</hi> called a Juſtice of Peace in that Town; but his office is not for the County of Suffolk, where we were taken, but for <hi>Eſſex,</hi> nevertheleſs he examined us two aforeſaid, but could not give no plain account why he examined us, neither when he had exa<g ref="char:EOLhyphen"/>mined us could he lay the leaſt breach of any Law to our charge; but forthwith ſent us by the Conſtable and ſome others, to one <hi>Them as VValdgrave,</hi> called a Juſtice of Peace, at Smallbridge in Suffolk, who alſo when we came before him, examined us ſome few particulars; but when he had examined us, he could lay nothing to our charge worthy of ſuffering, nor ſhew us any law that we had tranſgreſſed; but ne<g ref="char:EOLhyphen"/>vertheleſs he ſent <hi>John Harwood</hi> the next day to Bury Edmonds priſon, and the next day after he was ſent to priſon, <hi>George VVhitehead</hi> he was alſo ſent to the ſame priſon: Alſo upon the ſecond day of the ſeventh moneth <hi>George Rofe</hi> was taken, and ſent to the ſame priſon by one <hi>John Garden,</hi> called a Juſtice of Peace for the county of Suffolk, and this <hi>George Rofe</hi> was ſent to priſon for asking a queſtion of one called a <hi>Mi<g ref="char:EOLhyphen"/>niſter of Stoak</hi> neer Naylan, after he had ended his Sermon, ſo called; ſo we three before mentioned, continued untill the Generall quarter Seſſions, holden at the ſaid <hi>Bury Edmonds,</hi> the nineth day of the eighth moneth, and then we were called before one <hi>VVilliam Blumfield,</hi> called a Juſtice of Peace for the ſaid county, who then and there ſate for Judge, but no more juſtice then before could we there have, but great<g ref="char:EOLhyphen"/>er bonds was laid upon us, and more cruelty was acted againſt us three, ſo they ſent us to priſon again, where we ever ſince have remained, in innocency, though in the bonds of ſuch cruel oppreſſors.</p>
+            <p>And upon the ſame day before-mentioned, when <hi>Iohn Garden</hi> was come from oft the Bench, and had gotten his cruel intent fulfilled a<g ref="char:EOLhyphen"/>gainſt
+<pb n="2" facs="tcp:168385:3"/>us three, as he came out of the Seſſions houſe door, <hi>George Fox</hi> was moved to ſpeak a few words to him to warn him to repentance; for which the ſaid <hi>Iohn Garden</hi> forthwith ſent <hi>George</hi> to this priſon to us, where with us he remains, and upon the 22 day of the nineth moneth, <hi>Henry Marſhall</hi> was taken, and ſent to this priſon by the ſaid <hi>Iohn Gar<g ref="char:EOLhyphen"/>den,</hi> for ſpeaking to one called a Miniſter at Boxford, after he had ended his ſermon ſo called; and before he was ſent to priſon, <hi>Iohn Garden</hi> cauſed him to ſit in a pair of Stocks about an hour; ſo at the next Ge<g ref="char:EOLhyphen"/>neral quarter Seſſions, being held for the ſaid County in the ſaid Bury the 14th day of the eleventh moneth, <hi>George Fox,</hi> and <hi>Henry Marſhaſh</hi> was then called to be tryed there, where one Juſtice <hi>Colthrop</hi> for the ſaid County ſate for judge, but he followed the ſame example of cruelty againſt them two, that before was acted againſt us three, who at that time and place aforeſaid, impoſed a fine of twenty Marks upon <hi>Henry Marſhall,</hi> but did not fine <hi>George Fox,</hi> but ſent them both to priſon a<g ref="char:EOLhyphen"/>gain to us, where we all remain, and none of us convinced of the breach of any juſt Law, though we thus ſuffer, and are more ſtraitned of our liberty outwardly then Thieves and Murtherers. But that freedome which ſtands in innocency and righteouſnes, wherein we ſuffer, our Oppreſſors cannot limit, not take away: So all people that have eyes to ſee, and any true fear of God in them, may ſee what cruelty and oppreſſion is acted againſt the innocent, by them who are in Authority, who are ſet to do juſtice, and to remove unrighteouſneſs, or unjuſt cau<g ref="char:EOLhyphen"/>ſes; but we ſee in this age, that the righteous ſeed ſuffers, as ever it did in all ages, by th<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> cruelty of them who <hi>pretend to do juſtice, but do not.</hi>
+            </p>
+            <div type="part">
+               <head>A few of the cruel abuſes deſcribed, which were acted in the Goal of Bury, by Robert Newton the Goaler, and by ſome of his priſoners, and his ſervants, which he and they have acted againſt us, who are ſufferers for the truth, (by the cruelty of oppreſſors in the ſaid Goal,) whom the world calls Quakers: The abuſes as followeth.</head>
+               <p>UPon the 21 day of the 10 month 1655. the aforeſaid Goaler did ſmite <hi>George Roſe</hi> upon the face before ſeveral witneſſes, til he drew blood; alſo upon the 28 day of the 10 moneth, the Goaler ſmote <hi>George Fox</hi> and <hi>Iohn Harwood</hi> upon their faces before ſeverall witneſſes, <hi>&amp;c.</hi> alſo upon the 21 day of the 11 month, the Goaler came to us in the Goal yard, and <hi>George VVhitehead</hi> reproved him for his lies, which ſeverall who ſtood thereby heard him utter forth, for which he ſmote <hi>George VVhitehead</hi> on the face and mouth til the blood came out of his mouth,
+<pb n="3" facs="tcp:168385:3"/>ſo one woman of his own <hi>generation</hi> that ſtood by, ſeeing his cruelty and fierceneſs, told him <hi>he diſhonoured the goſpel;</hi> and ſeverall other times the ſaid <hi>goaler</hi> hath abuſed us, both in words and actions, as can be made evidently appear, and alſo his Servant the <hi>Tapſter</hi> hath often abuſed us, and the <hi>Goaler</hi> hath ſometime in our own hearing given him leave to abuſe us, and the ſaid <hi>Tapſter</hi> hath often threatned us, and one time caſt a ſtone violently; and hit one of us on the back with it; and another time in great rage he took up a ſtool, with it to have ſmitten ſome of us, or to have caſt it at ſome of us, but one preſent ſeeing him ſo violent, took hold of it, ſo he was hindered from caſting the ſtool, but often he hath ſlandered and beaten ſome of us on the faces, and buffeted ſome of us ſeverall times together with his fiſts violently on our faces for ſpeaking the truth; and alſo we have been often abuſed by ſome of the Priſoners, for ſome of them have often taken away our food from us, and ſometimes have confeſſed the Goaler bad them, or gave them leave to take our Food, and the Goaler would have had us to have ta<g ref="char:EOLhyphen"/>ken a chamber, and beds of him to have laid in, to have upholden his Oppreſſion, which we denyed, as to pay 4.d. a night each of us for our lodging, and becauſe we rather chooſed to ſuffer in the Common-Priſon, then to uphold ſuch Oppreſſion, the <hi>Goaler</hi> was much inraged a<g ref="char:EOLhyphen"/>gainſt us, and thereby ſome wicked Priſoners that were with us in the <hi>Common-goal,</hi> took greater occaſion to do us miſchif, thinking thereby to make us go out of the <hi>Common-goal,</hi> to uphold the <hi>Goalers</hi> Oppreſſi<g ref="char:EOLhyphen"/>on, which we could not; and alſo ſome of the <hi>Priſoners</hi> have ſeverall times bear ſome of us, and ſtoned us, &amp; diſpitefully uſed us, and threat<g ref="char:EOLhyphen"/>ned often to kill ſome of us, and to knock ſome of us in the heads, and one ſaid, <hi>if he did kill ſome of us he might not be h<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>nged for it,</hi> and ſaid, <hi>that there is no Law for us if he killed us,</hi> and when the <hi>Goaler</hi> ſuffered him to have too much ſtrong Drink till he was drunken, he kicked ſome of us with his feet, and one time wounded ſome of us on the Legs, and did exceedingly abuſe us ſo far as his power reached, but when he was ſom<g ref="char:EOLhyphen"/>thing more moderate, that he was not ſo much drunk with ſtrong drink, he told us that the <hi>Goaler</hi> made him worſe then he would have been againſt us; and alſo much drunkenneſs and ſwearing is acted in this Priſon by priſoners, and the <hi>Goalers</hi> ſervants; and drunkenneſs is ſuffered and allowed of by the <hi>Goaler,</hi> in that he ſuffers and allows his ſervant the <hi>Tapſter</hi> to let them have ſo much ſtrong Drink till they be drunk, but ſo that the unrighteous gain returns to him, it appears he makes no conſcience of his obtaining it, though in words he profeſſes godlineſs, and hath often on the firſt dayes of the weeks, taught the priſoners concerning the things of God, as he pretends, but his profeſ<g ref="char:EOLhyphen"/>ſion, and teaching, and praying, as he pretends, will not cover his de<g ref="char:EOLhyphen"/>ceit and cruelty, which he hath acted againſt us who are innocent, and do not ſuffer as <hi>Malefactors,</hi> though we undergo greater cruelty, and more ſtraitned of our outward liberty then <hi>Malefactors</hi> are, as it is made plainly appear.</p>
+               <p>
+                  <pb n="4" facs="tcp:168385:4"/>
+And upon the 16. day of the 2. month, 1656. <hi>Robert Newton</hi> the goa<g ref="char:EOLhyphen"/>ler came into the common Goal to us, and asked us if we would pay him for keeping of us here; ſome of us asked him what we owed him, he ſaid, <hi>fourteen pence a weak each of you,</hi> though ſome of us had then been 31. weeks in this Common Goal, and none of us there did lye in any bedding of the Goalers, but when they brought us ſtraw to lye upon, which was allowed by the Countrey for the Priſoners uſe, we paid them for bringing of it, elſe we might not have had it; and when the <hi>Goaler</hi> demanded 14.d. a week of us, we told him, <hi>that we demanded a free pri<g ref="char:EOLhyphen"/>ſon after we were committed, and when ſome of us had demanded a free pri<g ref="char:EOLhyphen"/>ſon, he cauſed us to be put into this place;</hi> ſo preſently he commanded the <hi>Key-turner</hi> to take away our clothes which we laid in in the nights, ſay<g ref="char:EOLhyphen"/>ing to the <hi>Key-turner, Take away their clothes, and leave them nothing but the ſtraw to lye upon, and take away their boxes;</hi> ſo the <hi>Key-turner</hi> and the <hi>Tap<g ref="char:EOLhyphen"/>ſter</hi> took away all theſe our things, which the Goaler commanded to take away, and they left us not ſo much of theſe things as our Night-Caps, which hung in a basket by the wall, but took the basket and them; and moreover the Goaler threatned to take the coats from off our backs, we told him <hi>he might do ſo if be would,</hi> for as wel he might take them as other things of <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>urs, as <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> bed, clothes, and a coat, and a cloak which they took, and our Boxes, wherein was our food and lin<g ref="char:EOLhyphen"/>nen, and other things, but he ſaid he would not take our coats till war<g ref="char:EOLhyphen"/>mer wheather; and ſome of us told him <hi>h<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> would ſhame his profeſſion,</hi> he ſaid, <hi>that is no matter, for you are all Hereticks.</hi> And ſoon after theſe our things were taken away, <hi>Deborah</hi> the Goalers Daughter ſaid to one of us, <hi>They have robbed you of all, but in patience we ſuffer, and therein rejoyce, in as much as we ſuffer with them who ever ſuffered for righteouſneſs ſake, who ſuffered the ſpoyling of their goods joyfully, and we are willing, as they were, to lay down our lives for Chriſts ſake.</hi>
+               </p>
+               <p>And when <hi>Iohn VVateridge</hi> was Priſoner here, and the Goaler had or<g ref="char:EOLhyphen"/>der or command to let him go out of priſon, the Goaler demanded 4.s. 4.d. for Fees of him, ſo <hi>Iohn</hi> demanded to ſee his Table for it, and what Law he had to demand ſuch Fees of him, who was not committed for the breach of the Law, and had not been a week in priſon when he de<g ref="char:EOLhyphen"/>manded it, and laid in no bedding of the Goalers, and the Goaler de<g ref="char:EOLhyphen"/>manded 4.d. a night of <hi>Iohn VVateridge</hi> for lodging, though <hi>Iohn</hi> had no bedding, but laid on the <hi>Chamber Planchers;</hi> and the Goaler kept him above a week in priſon after that he order to let him forth of priſon: And upon the 26. day of the 2. month, the <hi>Key-turner</hi> took away <hi>Iohn VVateridges</hi> cloak, as the Goaler had commanded, as he pretended, for Fees: ſo when they had taken away his Cloak, they cauſed <hi>Iohn VVa<g ref="char:EOLhyphen"/>teridge</hi> to go forth of priſon, but kept his Cloak. And upon the 28. day of the ſecond Month, the Goaler told us, <hi>That it was his curteſie to us that he ſuffered us to have our cloathes in the winter, for he ſaid he had order from
+<pb n="5" facs="tcp:168385:4"/>the Juſtices to take them from us then;</hi> and moreover upon the ſame day, a woman who is a friend to us, living in this Town, came to this priſon with ſomething for us, as two Shirts, two Caps, two bands, and four Handkerchiefs, all which the Goaler cauſed to be taken from her, and would not ſuffer her to deliver them to us; and the <hi>Key-turner,</hi> took a<g ref="char:EOLhyphen"/>way <hi>George Rofes</hi> coat, which uſually he did wear; and other times when the woman comes to bring us food, the <hi>Key-turner</hi> will not ſuffer her to deliver us our food, till he have ſearched her, and ſeen what food ſhe brings us, and herein he ſerves the Goaler, and ſubmits to his cruel will, who would not ſuffer us to have our linnen, and other things con<g ref="char:EOLhyphen"/>venient for our neceſſities.</p>
+               <p>And upon the thirtieth day of the ſecond Month, the Goaler came to us, and asked us 14.d. a week for each of us for lodging, and if we would give him ſo much, he ſaid he would give us our things again he had ta<g ref="char:EOLhyphen"/>ken from us; we asked him what Law he could ſhew for it, as to de<g ref="char:EOLhyphen"/>mand that of us who were in the common Goal, and there laid on no beds of his; but he could ſhew us no Law for it, but told us, <hi>if we would have beds of his, and pay each of us ſeven groats a week, and fourteen pence a week for the time we had been in the common Goal, we ſhould have the pri<g ref="char:EOLhyphen"/>viledges in the houſe, and a larger yard to walk in, and we might go into his garden and take our pleaſure,</hi> and then he ſaid, <hi>our friends ſhould come to us though he had order to the contrary,</hi> but his deceit and oppreſſion, we de<g ref="char:EOLhyphen"/>nyed, and to take pleaſure in theſe things which are changeable, which might be gained through upholding his oppreſſion, which we utterly deny, and in the will of him ſtands our pleaſure, who enters not into the temptations of the wicked.</p>
+               <p>And upon they 3. day of the 3 month, the goaler commanded his ſervant the Tapſter, to take <hi>George Fox</hi>'s hat from him, which the Tapſter took from off his head; but the ſame day the Goalers wife brought him his hat again, &amp; ſaid, that ſhe did not know that her husband commanded to take it from him; &amp; on the night following next, the 17. day of the 3. month, one of the Priſoners, whom they often allow ſtrong drink in the Goal, till often he be drunk; he did beat us, and exceedingly abuſe us, and often ſmote ſome of us on the faces, and kicked ſome of us, and threw ſome of us violently down on the ſtore; &amp; when he had ceaſed to beat us, the Goalers ſervants, the <hi>Key-turner,</hi> and the <hi>Tapſter</hi> came to us, though in the time when he abuſed us, ſome of them heard him abuſe us, but did not reprove him for it, and when the <hi>Key-turner</hi> and the <hi>Tapſter</hi> came, the priſoner thereby was but the more incouraged to do us miſchief, for the <hi>Tapſter</hi> did then alſo beat one of us on the face when we told him the truth concerning their wicked proceedings, and thus the go on in theſe courſes of wickedneſs and cruelty, againſt the righteous, who in innocencie ſuffer with Chriſt, who ſuffered buffetings and contradi<g ref="char:EOLhyphen"/>ction, and deſpitefull uſage, as the righteous ever did, <hi>who gave his back
+<pb n="6" facs="tcp:168385:5"/>to the Smiter, and his cheeks to him that plucked of the Hair,</hi> and here we have a cloud of Witneſſes for our ſufferings, and therein have peace, which the envie of the world cannot take away, and we know that if we were of the world, we ſhould not thus ſuffer by the world, for it loves its own; but we are of God, choſen out of the world, and therefore the world hate us; but now let all that have eyes to ſee, ſee the government that is in this Goal, though it be a place pretended to puniſh <hi>Malefac<g ref="char:EOLhyphen"/>tors</hi> in, but they have their fredome to wickedneſs, and being allowed therein wax worſe and worſe; but the rigteous ſuffers, and the unrigh<g ref="char:EOLhyphen"/>teous ſeeks by their cruelty to add affliction to the bonds of the righte<g ref="char:EOLhyphen"/>ous; and though few there be that lay the cauſe of the righteous to heart, yet it is come before the Lord, and wo to the wicked and them that winck at ſuch cruelty, for the fruits of their doing ſhall they re<g ref="char:EOLhyphen"/>ceive:</p>
+               <closer>
+                  <signed>From the ſervants of the Lord, who are ſufferers as is declared in <hi>Bury Edmonds</hi> common Goal, &amp;c.
+<list>
+                        <item>George VVhitehead,</item>
+                        <item>Iohn Harwood,</item>
+                        <item>George Fox,</item>
+                        <item>George Rofe, and</item>
+                        <item>Henry Marſhall.</item>
+                     </list>
+                  </signed>
+                  <dateline>
+                     <date>The tenth day of the third Moneth, 1656.</date>
+                  </dateline>
+               </closer>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
